@@ -66,7 +66,7 @@ while True:
             print("There is no items with that number.")
     # Exit function
     elif user_action.startswith("exit"):
-        break
+        exit()
     else:
         print("Command is not valid")
 
