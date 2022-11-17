@@ -1,0 +1,6 @@
+clean
+run
+read
+example
+write
+Data
