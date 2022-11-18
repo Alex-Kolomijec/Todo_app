@@ -1,6 +1,5 @@
 clean
-run
-read
-example
-write
+walk
+sleep
 Data
+Play
