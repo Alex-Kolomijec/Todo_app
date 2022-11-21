@@ -1,5 +1,5 @@
 clean
 walk
 sleep
-Data
+eat
 Play
